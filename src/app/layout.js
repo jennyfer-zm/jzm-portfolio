@@ -6,8 +6,8 @@ import CallToAction from "@/components/sections/callToAction";
 import Footer from "@/components/sections/footer";
 
 export const metadata = {
-  title: "Bentos - Personal Portfolio Next.js Template",
-  description: "Bentos - Personal Portfolio React Template",
+  title: "Jennyfer Z. Moawad | Senior Graphic Designer",
+  description: "Portfolio of Jennyfer Z. Moawad, Senior Graphic Designer specializing in branding, AI experiences, marketing campaigns, presentations, and digital design.",
 };
 
 export default function RootLayout({ children }) {
