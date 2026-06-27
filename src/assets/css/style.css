@@ -3066,3 +3066,12 @@ ul.blog_pagination li a:hover {
     padding: 25px;
     border: 1px solid var(--border-color);
 }
+.project-item.style-two .project-image {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.project-item.style-two .project-image img {
+  border-radius: 15px;
+  display: block;
+}

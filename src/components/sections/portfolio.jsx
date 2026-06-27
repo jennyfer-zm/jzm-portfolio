@@ -32,8 +32,12 @@ const Portfolio = ({ className }) => {
     })
     // ------ filter unique category
 
-    const filteredProjects = category === 'All' ? projectsData : projectsData.filter(image => image.category === category);
-
+const filteredProjects =
+    category === 'All'
+        ? projectsData.filter(project => project.visible)
+        : projectsData.filter(
+            project => project.visible && project.category === category
+        );
 
     return (
         <section id="portfolio" className={`projects-area ${className}`}>

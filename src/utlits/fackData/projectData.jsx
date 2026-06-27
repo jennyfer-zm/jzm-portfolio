@@ -5,6 +5,7 @@ export const projectsData = [
         category: "AI & Immersive Experiences",
         title: "Visit Saudi | Verofax",
         link: "/visit-saudi",
+        visible: true,
     },
     {
         id: 2,
@@ -12,6 +13,7 @@ export const projectsData = [
         category: "Branding",
         title: "Zeila Coffee Shop",
         link: "/zeila-coffee-shop",
+        visible: true,
     },
       {
         id: 3,
@@ -19,6 +21,7 @@ export const projectsData = [
         category: "AI & Immersive Experiences",
         title: "AFA | Verofans",
         link: "/afa-verofans",
+        visible: true,
     },
       {
         id: 4,
@@ -26,6 +29,7 @@ export const projectsData = [
         category: "Branding",
         title: "Kaf Concept",
         link: "/kaf-concept",
+        visible: true,
     },
     {
         id: 5,
@@ -33,6 +37,7 @@ export const projectsData = [
         category: "Marketing & Social",
         title: "PROVOC Makeup",
         link: "/provoc-makeup",
+        visible: true,
     },
  {
         id: 6,
@@ -40,6 +45,7 @@ export const projectsData = [
         category: "AI & Immersive Experiences",
         title: "Budweiser | Verofax",
         link: "/budweiser-verofax",
+        visible: false,
     },
      {
         id: 7,
@@ -47,6 +53,7 @@ export const projectsData = [
         category: "Branding",
         title: "AZALEA",
         link: "/azalea",
+        visible: true,
     },
      {
         id: 8,
@@ -54,6 +61,7 @@ export const projectsData = [
         category: "Branding",
         title: "SAM Audit",
         link: "/sam-audit",
+        visible: false,
     },
   {
         id: 9,
@@ -61,6 +69,7 @@ export const projectsData = [
         category: "Marketing & Social",
         title: "Popkitch",
         link: "/popkitch",
+        visible: true,
     },
        {
         id: 10,
@@ -68,6 +77,7 @@ export const projectsData = [
         category: "Digital Design",
         title: "GGI Website Design",
         link: "/ggi-website-design",
+        visible: false,
     },
         {
         id: 11,
@@ -75,6 +85,7 @@ export const projectsData = [
         category: "Branding",
         title: "KAEC",
         link: "/kaec",
+        visible: true,
     },
     {
         id: 12,
@@ -82,6 +93,7 @@ export const projectsData = [
         category: "Branding",
         title: "Industrial Valley",
         link: "/industrial-valley",
+        visible: true,
     },
         {
         id: 13,
@@ -89,6 +101,7 @@ export const projectsData = [
         category: "Branding",
         title: "Datanet Global",
         link: "/datanet-global",
+        visible: false,
     },
             {
         id: 14,
@@ -96,6 +109,7 @@ export const projectsData = [
         category: "Branding",
         title: "Iconic Beauty Salon",
         link: "/iconic-beauty-salon",
+        visible: false,
     },
               {
         id: 15,
@@ -103,5 +117,6 @@ export const projectsData = [
         category: "Branding",
         title: "Diana Rizk",
         link: "/diana-rizk",
+        visible: false,
     },
 ]
