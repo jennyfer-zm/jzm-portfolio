@@ -1,6 +1,7 @@
 import React from 'react'
 import { RiMailSendLine } from '@remixicon/react'
 import SlideUp from '@/utlits/animations/slideUp'
+import Link from "next/link";
 
 const Summery = () => {
     return (
@@ -28,7 +29,10 @@ const Summery = () => {
                                 <p> I'm always exploring new ways to blend creativity with technology. Whether I'm building a brand identity, designing a digital experience, creating a pitch deck, or experimenting with AI-generated visuals, I enjoy bringing ideas to life with purpose and attention to every detail. </p>
                                 <p> For me, great design isn't just about how it looks, it's about how it communicates, solves problems, and leaves a lasting impression.</p>
                                 <div className="hero-btns">
-                                    <a href="contact.html" className="theme-btn">Let's Connet<i> <RiMailSendLine size={16} /> </i></a>
+                                    <Link href="/contact" className="theme-btn">
+    Let's Connect
+    <i><RiMailSendLine size={16} /></i>
+</Link>
                                 </div>
                             </div>
                         </SlideUp>
