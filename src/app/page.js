@@ -1,14 +1,23 @@
-import React from 'react'
-import Hero from '../components/sections/hero'
-import Portfolio from '../components/sections/portfolio'
+import React from "react";
+import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
+import Hero from "../components/sections/hero";
+import Portfolio from "../components/sections/portfolio";
 
 const Home = () => {
-    return (
-        <>
-            <Hero />
-            <Portfolio/>
-        </>
-    )
-}
+  const cookieStore = cookies();
+  const access = cookieStore.get("portfolio_access")?.value;
 
-export default Home
+  if (access !== "granted") {
+    redirect("/unlock");
+  }
+
+  return (
+    <>
+      <Hero />
+      <Portfolio />
+    </>
+  );
+};
+
+export default Home;
