@@ -8,7 +8,7 @@ const SingleProject = () => {
                 <div className="row">
                     <div className="col-lg-12 text-center pb-30">
                         <p>Branding</p>
-                        <h1>Industrial Valley</h1>
+                        <h1>popkitch</h1>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@ const SingleProject = () => {
                             </div>
                             <div className="single-info">
                                 <p>Client</p>
-                                <h3>Industrial Valley</h3>
+                                <h3>popkitch</h3>
                             </div>
                             <div className="single-info">
                                  <p>Role</p>
