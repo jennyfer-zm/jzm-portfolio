@@ -62,36 +62,8 @@ const SingleProject = () => {
                         <div className="single-image wow fadeInUp delay-0-4s">
                             <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/02.jpg"} alt="gallery" />
                         </div>
-                        </div>
-                 <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/03.jpg"} alt="gallery" />
-                        </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/04.jpg"} alt="gallery" />
-                        </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/05.jpg"} alt="gallery" />
-                        </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/06.jpg"} alt="gallery" />
-                        </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/07.jpg"} alt="gallery" />
-                        </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/08.jpg"} alt="gallery" />
-                        </div>
+                      
+                       
 
                     </div>
                 </div>
