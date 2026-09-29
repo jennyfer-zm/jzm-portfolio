@@ -13,7 +13,7 @@ const SingleProject = () => {
                 </div>
             </div>
             <div className="single-project-image">
-                <Image width={1095} height={1072} sizes='100vw' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/single-project.jpg"} alt="image" />
+                <Image width={1095} height={1072} sizes='100vw' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/single-project.jpg"} alt="image" />
             </div>
             <div className="container pt-30">
                 <div className="row">
@@ -55,42 +55,42 @@ const SingleProject = () => {
                 <div className="row pt-30">
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-2s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/01.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/01.jpg"} alt="gallery" />
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/02.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/02.jpg"} alt="gallery" />
                         </div>
                         </div>
                  <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/03.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/03.jpg"} alt="gallery" />
                         </div>
                         </div>
                         <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/04.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/04.jpg"} alt="gallery" />
                         </div>
                         </div>
                         <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/05.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/05.jpg"} alt="gallery" />
                         </div>
                         </div>
                         <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/06.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/06.jpg"} alt="gallery" />
                         </div>
                         </div>
                         <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/07.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/07.jpg"} alt="gallery" />
                         </div>
                         </div>
                         <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/industrial-valley/08.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/popkitch/08.jpg"} alt="gallery" />
                         </div>
 
                     </div>
