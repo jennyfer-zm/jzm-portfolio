@@ -55,42 +55,42 @@ const SingleProject = () => {
                 <div className="row pt-30">
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-2s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/01.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work1.jpg"} alt="gallery" />
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-4s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/02.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work2.jpg"} alt="gallery" />
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-6s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/03.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work3.jpg"} alt="gallery" />
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-8s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/04.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work4.jpg"} alt="gallery" />
                         </div>
                     </div>
                       <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-8s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/05.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work5.jpg"} alt="gallery" />
                         </div>
                     </div>
                       <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-8s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/06.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work6.jpg"} alt="gallery" />
                         </div>
                     </div>
                       <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-8s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/07.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work7.jpg"} alt="gallery" />
                         </div>
                     </div>
                       <div className="col-lg-6">
                         <div className="single-image wow fadeInUp delay-0-8s">
-                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/08.jpg"} alt="gallery" />
+                            <Image width={633} height={679} sizes='100%' style={{width:"100%", height:"auto"}} src={"/images/projects/kaec/work8.jpg"} alt="gallery" />
                         </div>
                     </div>
                 </div>
